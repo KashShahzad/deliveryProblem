@@ -1,0 +1,15 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "Optimized logistic approach",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "shahzad@kashinnov.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "util.log": "^0.0.45"
+  }
+}
